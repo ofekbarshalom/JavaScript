@@ -23,3 +23,7 @@ To set up the project, you need to create a `.env` file with your credentials:
 ## Credits
 
 This project is based on the **Create a Chat GPT Bot in Discord (with GPT-4)** created by **UnderCtrl**. You can watch the tutorial series here: [Create a Chat GPT Bot in Discord (with GPT-4)](https://youtu.be/EUlnKW6Yy94?si=-OKFA_w6_5zxus5q).
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
