@@ -19,3 +19,7 @@ To set up the project, you need to create a `.env` file with your credentials:
    ```plaintext
    DISCORD_TOKEN=your_discord_bot_token
    OPENAI_KEY=your_openai_api_key
+   
+## Credits
+
+This project is based on the **Create a Chat GPT Bot in Discord (with GPT-4)** created by **UnderCtrl**. You can watch the tutorial series here: [Create a Chat GPT Bot in Discord (with GPT-4)]([https://www.youtube.com/watch?v=OGHA-elMrxI](https://youtu.be/EUlnKW6Yy94?si=GY3HVp_gq8x4yJmQ)).
