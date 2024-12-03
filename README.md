@@ -14,7 +14,7 @@ Welcome to my **JavaScript repository**! This repository contains a collection o
 
 ## About
 
-This repository showcases a variety of JavaScript projects, ranging from beginner-level applications to more advanced implementations. Each project highlights different JavaScript concepts and frameworks, demonstrating practical applications of the language.
+This repository showcases a variety of JavaScript projects.
 
 ---
 
